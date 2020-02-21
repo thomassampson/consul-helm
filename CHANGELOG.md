@@ -1,5 +1,13 @@
 ## Unreleased
 
+IMPROVEMENTS:
+
+  * Add allow/deny namespace lists to catalog sync and connect inject
+
+  * [Enterprise feature] Support Consul namespaces through the Helm chart
+
+  * Updates default version of Envoy to 1.13.0, Consul to 1.7.1 and consul-k8s to 0.12.0.
+
 ## 0.16.2 (Jan 15, 2020)
 
 BUG FIXES:
